@@ -55,6 +55,7 @@ Through CS50x, I aim to:
 | Credit | [cs50-credit](https://github.com/meaarna2011-ops/cs50-credit) |
 | Scrabble | [cs50x-scrabble](https://github.com/meaarna2011-ops/cs50x-scrabble) |
 | The Artist's Mind | [cs50-scratch](https://github.com/meaarna2011-ops/The-Artist-Mind) |
+| Readability | [cs50-readability](https://github.com/meaarna2011-ops/cs50-readability) |
 
 ---
 
