@@ -49,11 +49,12 @@ Through CS50x, I aim to:
 
 | Assignment | Repository |
 |---|---|
-| Hello World | [cs50-hello-world](LINK) |
-| Hello, It's Me | [cs50-hello-its-me](LINK) |
-| Mario More | [cs50-mario-more](LINK) |
-| Credit | [cs50-credit](LINK) |
-| Scrabble | [cs50x-scrabble](LINK) |
+| Hello World | [cs50-hello-world]([LINK](https://github.com/meaarna2011-ops/hello-world-c)) |
+| Hello, It's Me | [cs50-hello-its-me]([LINK](https://github.com/meaarna2011-ops/cs50-hello-its-me)) |
+| Mario More | [cs50-mario-more]([LINK](https://github.com/meaarna2011-ops/cs50-mario-more)) |
+| Credit | [cs50-credit]([LINK](https://github.com/meaarna2011-ops/cs50-credit)) |
+| Scrabble | [cs50x-scrabble](https://github.com/meaarna2011-ops/cs50x-scrabble) |
+| The Artist's Mind | [cs50-scratch]([LINK](https://github.com/meaarna2011-ops/The-Artist-Mind)) |
 
 ---
 
