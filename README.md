@@ -51,18 +51,22 @@ Through CS50x, I aim to:
 |---|---|
 | Hello World | [cs50-hello-world](https://github.com/meaarna2011-ops/hello-world-c) |
 | Hello, It's Me | [cs50-hello-its-me](https://github.com/meaarna2011-ops/cs50-hello-its-me) |
-| Mario More | [cs50-mario-more](https://github.com/meaarna2011-ops/cs50-mario-more) |
-| Credit | [cs50-credit](https://github.com/meaarna2011-ops/cs50-credit) |
-| Scrabble | [cs50x-scrabble](https://github.com/meaarna2011-ops/cs50x-scrabble) |
+| Mario More | [cs50-mario-more](https://github.com/meaarna2011-ops/mario-more) |
+| Credit | [cs50-credit](https://github.com/meaarna2011-ops/credit) |
+| Scrabble | [cs50x-scrabble](https://github.com/meaarna2011-ops/scrabble) |
 | The Artist's Mind | [cs50-scratch](https://github.com/meaarna2011-ops/The-Artist-Mind) |
-| Readability | [cs50-readability](https://github.com/meaarna2011-ops/cs50-readability) |
-| Substitution | [cs50-substitution](https://github.com/meaarna2011-ops/cs50-substitution) |
+| Readability | [cs50-readability](https://github.com/meaarna2011-ops/readability) |
+| Substitution | [cs50-substitution](https://github.com/meaarna2011-ops/substitution) |
+| Sort | [CS50x 2026 Week 3: Sort - Sorting Algorithm Analysis](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Sort---Sorting-Algorithm-Analysis) |
+| Plurality | [CS50x 2026 Week 3: Plurality - Election Voting System](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Plurality---Election-Voting-System) |
+| Tideman | [CS50x 2026 Week 3: Tideman - Ranked Pairs Voting Algorithm](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Tideman---Ranked-Pairs-Voting-Algorithm) |
 
 ---
 
 ## Reflections
 
 Each problem set includes:
+
 - My understanding of the problem
 - The approach I took
 - Challenges I faced
@@ -79,4 +83,4 @@ CS50x is Harvard University's introduction to computer science. The course teach
 
 ## Progress
 
-🚧 Currently completing CS50x 2026
+🚧 Currently completing CS50x 2026 and continuing to build my programming skills through weekly problem sets and projects.
