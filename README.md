@@ -60,6 +60,9 @@ Through CS50x, I aim to:
 | Sort | [CS50x 2026 Week 3: Sort - Sorting Algorithm Analysis](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Sort---Sorting-Algorithm-Analysis) |
 | Plurality | [CS50x 2026 Week 3: Plurality - Election Voting System](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Plurality---Election-Voting-System) |
 | Tideman | [CS50x 2026 Week 3: Tideman - Ranked Pairs Voting Algorithm](https://github.com/meaarna2011-ops/-CS50x-2026-Week-3-Tideman---Ranked-Pairs-Voting-Algorithm) |
+| Volume            | [CS50 Volume - Audio Manipulation](https://github.com/meaarna2011-ops/CS50-Volume)                                                     |
+| Recover           | [CS50 Recover - JPEG Recovery](https://github.com/meaarna2011-ops/CS50-Recover)                                                         |
+| Filter            | [CS50 Filter - Image Processing](https://github.com/meaarna2011-ops/CS50-Filter)  
 
 ---
 
