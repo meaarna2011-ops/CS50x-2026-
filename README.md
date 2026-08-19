@@ -63,6 +63,8 @@ Through CS50x, I aim to:
 | Volume            | [CS50 Volume - Audio Manipulation](https://github.com/meaarna2011-ops/CS50-Volume)                                                     |
 | Recover           | [CS50 Recover - JPEG Recovery](https://github.com/meaarna2011-ops/CS50-Recover)                                                         |
 | Filter            | [CS50 Filter - Image Processing](https://github.com/meaarna2011-ops/CS50-Filter)  
+| Inheritance | [cs50x-inheritance](https://github.com/meaarna2011-ops/cs50x-inheritance) |
+| Speller | [cs50x-speller](https://github.com/meaarna2011-ops/cs50x-speller) |
 
 ---
 
