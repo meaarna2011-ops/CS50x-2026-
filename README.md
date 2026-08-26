@@ -65,6 +65,11 @@ Through CS50x, I aim to:
 | Filter            | [CS50 Filter - Image Processing](https://github.com/meaarna2011-ops/CS50-Filter)  
 | Inheritance | [cs50x-inheritance](https://github.com/meaarna2011-ops/cs50x-inheritance) |
 | Speller | [cs50x-speller](https://github.com/meaarna2011-ops/cs50x-speller) |
+| Hello World | [Hello-Again-Python](https://github.com/meaarna2011-ops/Hello-Again-Python) |
+| Mario — More Comfortable | [Mario-More-Comfortable-Python](https://github.com/meaarna2011-ops/Mario-More-Comfortable-Python-) |
+| Credit | [Python-Credit](https://github.com/meaarna2011-ops/-Python-Credit-/tree/main) |
+| Readability | [Python-Readability](https://github.com/meaarna2011-ops/Python-Readability) |
+| DNA | [DNA-Python](https://github.com/meaarna2011-ops/DNA-Python) |
 
 ---
 
