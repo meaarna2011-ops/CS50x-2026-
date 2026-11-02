@@ -73,6 +73,7 @@ Through CS50x, I aim to:
 | Songs | [CS50 Songs — SQL Music Database](https://github.com/meaarna2011-ops/CS50-Songs/tree/main) |
 | Movies | [CS50 Movies — SQL Movie Database](https://github.com/meaarna2011-ops/cs50-movies/tree/main) |
 | Fiftyville | [CS50 Fiftyville — SQL Investigation](https://github.com/meaarna2011-ops/CS50---Fiftyville-SQL-Investigation/tree/main) |
+| Trivia | [CS50 Trivia Quiz](https://github.com/meaarna2011-ops/CS50-Trivia-Quiz/tree/main) |
 
 ---
 
